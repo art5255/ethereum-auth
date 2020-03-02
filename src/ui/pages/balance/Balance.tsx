@@ -14,8 +14,8 @@ const Balance: FunctionComponent<BalanceProps> = ({
     balance,
 }) => (
     <Layout>
-        <div>Адрес: {address}</div>
-        <div>Баланс: {balance}</div>
+        <div>Address: {address}</div>
+        <div>Balance: {balance}</div>
     </Layout>
 );
 

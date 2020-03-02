@@ -12,6 +12,7 @@
     "@babel/polyfill": "^7.0.0",
     "abortcontroller-polyfill": "^1.1.9",
     "connected-react-router": "6.5.2",
+    "ethereumjs-util": "^6.2.0",
     "history": "4.10.1",
     "js-cookie": "2.2.1",
     "lodash": "4.17.15",
@@ -95,5 +96,5 @@
     "webpack-hot-middleware": "2.25.0"
   },
   "typings": "./src/directives/index.d.ts",
-  "main": "index.js"
+  "main": "src/index.tsx"
 }
